@@ -1,0 +1,12 @@
+{
+	"telemetry.enableTelemetry": false,
+	"telemetry.enableCrashReporter": false,
+	"update.channel": "none",
+	"update.mode": "manual",
+	"update.enableWindowsBackgroundUpdates": false,
+	"update.showReleaseNotes": false,
+	"workbench.settings.enableNaturalLanguageSearch": false,
+	"workbench.enableExperiments": false,
+	"extensions.autoUpdate": false,
+	"git.ignoreMissingGitWarning": true,
+}
