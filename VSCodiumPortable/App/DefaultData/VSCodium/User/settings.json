@@ -5,8 +5,8 @@
 	"update.mode": "manual",
 	"update.enableWindowsBackgroundUpdates": false,
 	"update.showReleaseNotes": false,
-	"workbench.settings.enableNaturalLanguageSearch": false,
 	"workbench.enableExperiments": false,
+	"workbench.settings.enableNaturalLanguageSearch": false,
 	"extensions.autoUpdate": false,
 	"git.ignoreMissingGitWarning": true,
 }
