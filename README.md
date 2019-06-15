@@ -38,7 +38,7 @@ is packaged as an online installer and complete zip file.
 ## Credits
 
 *   VSCodium Portable is a redistribution of the [Visual Studio Code](https://code.visualstudio.com) editor, build by the [VSCodium Team](https://github.com/VSCodium/vscodium)
-*   Visual Studio Code Portable is a redistribution of the [Visual Studio Code](https://code.visualstudio.com) editor, developed by [Microsoft](https://www.microsoft.com).
+*   [Visual Studio Code](https://code.visualstudio.com) editor, source of the VSCodium editor, developed by [Microsoft](https://www.microsoft.com).
 *   [PortableApps.com platform](https://portableapps.com/download) developed by the [PortableApps.com team](https://portableapps.com).
 
 ## License
