@@ -18,8 +18,8 @@ Download [the latest version of the online installer][D1].
 
 All other downloads are available [in the Releases section][D2]. VSCodium Portable
 is packaged as an online installer and complete zip file.
-[D1]: https://github.com/Makazzz/VSCodiumPortable/releases/latest
-[D2]: https://github.com/Makazzz/VSCodiumPortable/releases
+[D1]:https://github.com/Makazzz/VSCodiumPortable/releases/latest
+[D2]:https://github.com/Makazzz/VSCodiumPortable/releases
 
 ## Features
 
