@@ -10,7 +10,7 @@ drive, or local folder without needing to install it on each PC. It has all
 the same features as Visual Studio Code, plus, it leaves no personal information
 behind on the machine you run it on, so you can take it with you wherever you go.
 
-My post on the Portableapps.com forum : https://portableapps.com/node/60330
+My post on the [Portableapps.com forum](https://portableapps.com/node/60330)
 
 ## Download
 
