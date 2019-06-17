@@ -14,7 +14,7 @@ My post on the [Portableapps.com forum](https://portableapps.com/node/60330)
 
 ## Download
 
-Download [the latest version of the online installer][D1].
+Download [the latest version of the installer][D1].
 
 All other downloads are available [in the Releases section][D2]. VSCodium Portable
 is packaged as an online installer and complete zip file.
