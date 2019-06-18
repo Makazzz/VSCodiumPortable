@@ -1,3 +1,5 @@
+<img src="./VSCodiumPortable/App/Appinfo/appicon_256.png" alt="VSCodium logo" width="150" />
+
 # VSCodium Portable
 
 VSCodium is a code editor redefined and optimized for building and debugging modern web and cloud applications with binary releases of VS Code without MS branding/telemetry/licensing.
