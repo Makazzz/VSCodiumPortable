@@ -1,4 +1,4 @@
-<img src="./VSCodiumPortable/App/Appinfo/appicon_256.png" alt="VSCodium logo" width="150" />
+<img src="./VSCodiumPortable/App/AppInfo/appicon_256.png" alt="VSCodium logo" width="150" />
 
 # VSCodium Portable
 
