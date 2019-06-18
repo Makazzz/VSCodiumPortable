@@ -46,6 +46,6 @@ is packaged as an online installer and complete zip file.
 ## License
 
 *   VSCodium Portable released under [the MIT license](https://raw.githubusercontent.com/Makazzz/VSCodiumPortable/master/LICENSE).
-*   PortableApps.com Launcher released under [the GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/VSCodiumPortable/master/VSCodePortable/Other/Source/LauncherLicense.txt).
+*   PortableApps.com Launcher released under [the GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/VSCodiumPortable/master/VSCodiumPortable/Other/Source/LauncherLicense.txt).
 *   The VSCodium editor is released under [the MIT license](https://raw.githubusercontent.com/VSCodium/vscodium/master/LICENSE).
 *   The Visual Studio Code editor is released under [the MIT license](https://raw.githubusercontent.com/microsoft/vscode/master/LICENSE.txt).
