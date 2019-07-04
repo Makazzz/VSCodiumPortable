@@ -1,3 +1,7 @@
+# Ignore App folder
+VSCodiumPortable/App/VSCodium
+VSCodiumPortable/App/VSCodium64
+
 # Ignore Data folder
 VSCodiumPortable/Data
 
