@@ -1,9 +1,11 @@
 # Ignore App folder
 VSCodiumPortable/App/VSCodium
 VSCodiumPortable/App/VSCodium64
+VSCodium64Portable/App/VSCodium
 
 # Ignore Data folder
 VSCodiumPortable/Data
+VSCodium64Portable/Data
 
 # Ignore Work folder
 Work
