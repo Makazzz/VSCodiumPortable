@@ -29,33 +29,33 @@ My post on the [Portableapps.com forum](https://portableapps.com/node/60330)
 Download [the latest version of the installer][D1].
 
 All other downloads are available [in the Releases section][D2]. VSCodium Portable
-is packaged as an online installer and complete zip file.
+is packaged as an offline installer and complete offline self extractable .paf.exe file.
 
 [D1]: https://github.com/Makazzz/VSCodiumPortable/releases/latest
 [D2]: https://github.com/Makazzz/VSCodiumPortable/releases
 
 ## Features
 
-*   Runs a full copy of the VSCodium editor.
+*   Runs a full copy of VSCodium.
 *   Completely portable - runs off a USB, cloud drive (DropBox, iCloud drive, OneDrive, etc) or hard drive.
 *   Does not require administrator privileges, works for any user.
 *   No need for any external software - simply download extract and run!
 *   Packaged in PortableApps.com format for easy integration.
 
-## System Requirements
+## Requirements
 
 *   Microsoft Windows 7 or later.
-*   [PortableApps.com Platform](https://portableapps.com/download) (Optional)
+*   [PortableApps.com Platform](https://portableapps.com/download) (Recommended)
 
 ## Credits
 
-*   VSCodium Portable is a redistribution of the [Visual Studio Code](https://code.visualstudio.com) editor, build by the [VSCodium team](https://github.com/VSCodium/vscodium)
-*   [Visual Studio Code](https://code.visualstudio.com) editor, source of the VSCodium editor, developed by [Microsoft](https://www.microsoft.com).
+*   VSCodium Portable is a redistribution of [Visual Studio Code](https://code.visualstudio.com), build by the [VSCodium team](https://github.com/VSCodium/vscodium)
+*   [Visual Studio Code](https://code.visualstudio.com), source of VSCodium, developed by [Microsoft](https://www.microsoft.com).
 *   [PortableApps.com platform](https://portableapps.com/download) developed by the [PortableApps.com team](https://portableapps.com).
 
 ## License
 
-*   VSCodium Portable released under [the MIT license](https://raw.githubusercontent.com/Makazzz/VSCodiumPortable/master/LICENSE).
-*   PortableApps.com Launcher released under [the GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/VSCodiumPortable/master/VSCodiumPortable/Other/Source/LauncherLicense.txt).
-*   The VSCodium editor is released under [the MIT license](https://raw.githubusercontent.com/VSCodium/vscodium/master/LICENSE).
-*   The Visual Studio Code editor is released under [the MIT license](https://raw.githubusercontent.com/microsoft/vscode/master/LICENSE.txt).
+*   VSCodium Portable released with [the MIT license](https://raw.githubusercontent.com/Makazzz/VSCodiumPortable/master/LICENSE).
+*   PortableApps.com Launcher released with [the GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/VSCodiumPortable/master/VSCodiumPortable/Other/Source/LauncherLicense.txt).
+*   VSCodium released with [the MIT license](https://raw.githubusercontent.com/VSCodium/vscodium/master/LICENSE).
+*   Visual Studio Code released with [the MIT license](https://raw.githubusercontent.com/microsoft/vscode/master/LICENSE.txt).
