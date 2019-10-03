@@ -4,10 +4,12 @@
 
 # VSCodium Portable<a href="https://portableapps.com/"><img src="https://cdn.portableapps.com/portableapps.com_1546.png" width="309" height="45" alt="PortableApps.com - Your Digital Life, Anywhere" title="PortableApps.com - Your Digital Life, Anywhere" align="right"></a>
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Makazzz/VSCodiumPortable)](https://github.com/Makazzz/VSCodiumPortable/releases/latest)
-[![GitHub All Releases](https://img.shields.io/github/downloads/Makazzz/VSCodiumPortable/total)](https://github.com/Makazzz/VSCodiumPortable/releases)
-[![GitHub repo size](https://img.shields.io/github/repo-size/Makazzz/VSCodiumPortable)](https://github.com/Makazzz/VSCodiumPortable)
-[![GitHub](https://img.shields.io/github/license/Makazzz/VSCodiumPortable)](https://raw.githubusercontent.com/Makazzz/VSCodiumPortable/master/LICENSE)
+<p align="center">
+<a href="https://github.com/Makazzz/VSCodiumPortable/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Makazzz/VSCodiumPortable"></a>
+<a href="https://github.com/Makazzz/VSCodiumPortable/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Makazzz/VSCodiumPortable/total"></a>
+<a href="https://github.com/Makazzz/VSCodiumPortable"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Makazzz/VSCodiumPortable"></a>
+<a href="https://raw.githubusercontent.com/Makazzz/VSCodiumPortable/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/Makazzz/VSCodiumPortable"></a>
+</p>
 
 VSCodium is a code editor redefined and optimized for building and debugging modern web and cloud applications with binary releases of VS Code without MS branding/telemetry/licensing.
 
