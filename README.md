@@ -29,7 +29,7 @@ My post on the [Portableapps.com forum](https://portableapps.com/node/60330)
 Download [the latest version of the installer][D1].
 
 All other downloads are available [in the Releases section][D2]. VSCodium Portable
-is packaged as an offline installer and complete offline self extractable .paf.exe file.
+is packaged as an offline installer and complete self extractable .paf.exe file.
 
 [D1]: https://github.com/Makazzz/VSCodiumPortable/releases/latest
 [D2]: https://github.com/Makazzz/VSCodiumPortable/releases
