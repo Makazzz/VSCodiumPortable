@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Makazzz/VSCodiumPortable/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Makazzz/VSCodiumPortable"></a>
-  <a href=""><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Makazzz/VSCodiumPortable/total"></a>
+  <a href="#"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Makazzz/VSCodiumPortable/total"></a>
   <a href="https://github.com/Makazzz/VSCodiumPortable"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Makazzz/VSCodiumPortable"></a>
   <a href="https://raw.githubusercontent.com/Makazzz/VSCodiumPortable/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/Makazzz/VSCodiumPortable"></a>
 </p>
