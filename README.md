@@ -1,6 +1,13 @@
-<img src="./VSCodiumPortable/App/AppInfo/appicon_256.png" alt="VSCodium logo" width="150" />
+<p align="center">
+  <img src="./VSCodiumPortable/App/AppInfo/appicon_256.png" alt="VSCodium logo" width="150" />
+</p>
 
 # VSCodium Portable
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Makazzz/VSCodiumPortable)
+![GitHub All Releases](https://img.shields.io/github/downloads/Makazzz/VSCodiumPortable/total)
+![GitHub repo size](https://img.shields.io/github/repo-size/Makazzz/VSCodiumPortable)
+![GitHub](https://img.shields.io/github/license/Makazzz/VSCodiumPortable)
 
 VSCodium is a code editor redefined and optimized for building and debugging modern web and cloud applications with binary releases of VS Code without MS branding/telemetry/licensing.
 
