@@ -49,7 +49,7 @@ is packaged as an offline installer and complete self extractable .paf.exe file.
 
 ## Credits
 
-*   VSCodium Portable is a redistribution of [Visual Studio Code](https://code.visualstudio.com), build by the [VSCodium team](https://github.com/VSCodium/vscodium)
+*   VSCodium Portable is a redistribution of [Visual Studio Code](https://code.visualstudio.com), build by the [VSCodium team](https://vscodium.com/)
 *   [Visual Studio Code](https://code.visualstudio.com), source of VSCodium, developed by [Microsoft](https://www.microsoft.com).
 *   [PortableApps.com platform](https://portableapps.com/download) developed by the [PortableApps.com team](https://portableapps.com).
 
