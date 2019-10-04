@@ -55,7 +55,7 @@ is packaged as an offline installer and complete self extractable .paf.exe file.
 
 ## License
 
-*   VSCodium Portable released with [the MIT license](https://raw.githubusercontent.com/Makazzz/VSCodiumPortable/master/LICENSE).
-*   PortableApps.com Launcher released with [the GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/VSCodiumPortable/master/VSCodiumPortable/Other/Source/LauncherLicense.txt).
-*   VSCodium released with [the MIT license](https://raw.githubusercontent.com/VSCodium/vscodium/master/LICENSE).
-*   Visual Studio Code released with [the MIT license](https://raw.githubusercontent.com/microsoft/vscode/master/LICENSE.txt).
+*   VSCodium Portable released with the [MIT license](https://raw.githubusercontent.com/Makazzz/VSCodiumPortable/master/LICENSE).
+*   PortableApps.com Launcher released with the [GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/VSCodiumPortable/master/VSCodiumPortable/Other/Source/LauncherLicense.txt).
+*   VSCodium released with the [MIT license](https://raw.githubusercontent.com/VSCodium/vscodium/master/LICENSE).
+*   Visual Studio Code released with the [MIT license](https://raw.githubusercontent.com/microsoft/vscode/master/LICENSE.txt).
