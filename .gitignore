@@ -9,3 +9,6 @@ VSCodium64Portable/Data
 
 # Ignore Work folder
 Work
+
+# Ignore log
+pac_installer_log.ini
