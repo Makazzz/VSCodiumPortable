@@ -9,5 +9,5 @@
 	"workbench.enableExperiments": false,
 	"workbench.settings.enableNaturalLanguageSearch": false,
 	"extensions.autoUpdate": false,
-	"git.ignoreMissingGitWarning": true,
+	"git.ignoreMissingGitWarning": true
 }
