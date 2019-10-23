@@ -43,7 +43,7 @@ is packaged in an installer, complete zip file and always download the last vers
 
 ## Credits
 
-*	VSCodium Portable is an online installation of [Visual Studio Code](https://vscodium.com/), build by the [VSCodium team](https://github.com/VSCodium/vscodium)
+*	VSCodium Portable is an online installation of [VSCodium](https://vscodium.com/), build by the [VSCodium team](https://github.com/VSCodium/vscodium)
 *	[Visual Studio Code](https://code.visualstudio.com), source of VSCodium, developed by [Microsoft](https://www.microsoft.com).
 *	[PortableApps.com platform](https://portableapps.com/download) developed by the [PortableApps.com team](https://portableapps.com).
 
