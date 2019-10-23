@@ -1,13 +1,13 @@
 {
-	//This is the default option put in the app until "git.ignoreMissingGitWarning"
-	"telemetry.enableTelemetry": false,
+	// This is the default option put in the app until "workbench.settings.enableNaturalLanguageSearch"
+	"extensions.autoUpdate": false,
+	"git.ignoreMissingGitWarning": true,
 	"telemetry.enableCrashReporter": false,
+	"telemetry.enableTelemetry": false,
 	"update.channel": "none",
-	"update.mode": "manual",
 	"update.enableWindowsBackgroundUpdates": false,
+	"update.mode": "manual",
 	"update.showReleaseNotes": false,
 	"workbench.enableExperiments": false,
-	"workbench.settings.enableNaturalLanguageSearch": false,
-	"extensions.autoUpdate": false,
-	"git.ignoreMissingGitWarning": true
+	"workbench.settings.enableNaturalLanguageSearch": false
 }
